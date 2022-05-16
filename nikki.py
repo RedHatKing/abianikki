@@ -1,0 +1,2 @@
+import nikki
+nikki.menu()
